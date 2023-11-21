@@ -9,7 +9,7 @@ mkdir nombreArchivo: crear una carpeta nueva
 git init: conecta la carpeta en la que estemos con el servidor remoto  
 git status: nos muestra el estado actual de nuestro repositorio en donde nos encontramos
 
-            seguir archivos, commit, 
+            seguir archivos, commit,
 git add 'nombre archivo' o '.'agrega todos los archivos: son archivos los cuales git sabe que existen pero no los sigue; add esto permite que git los tenga presente
 git commit -m"mensaje":compromete aquellos cambios que se realizaron con git add
 
