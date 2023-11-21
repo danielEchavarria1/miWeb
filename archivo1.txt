@@ -13,4 +13,9 @@ git status: nos muestra el estado actual de nuestro repositorio en donde nos enc
 git add 'nombre archivo' o '.'agrega todos los archivos: son archivos los cuales git sabe que existen pero no los sigue; add esto permite que git los tenga presente
 git commit -m"mensaje":compromete aquellos cambios que se realizaron con git add
 
-mi primer programa
+            eliminar y recuperar
+git rm 'archivo'=elimina archivos sin comprometerlos(commit)
+git restore 'archivo'=recupera los archivos eliminados que aun no estaban comprometidos(commit)
+
+            cambiar nombre archivo
+mv 'nomArchivo' 'nuevoNomArchivo' 
