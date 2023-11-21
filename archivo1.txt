@@ -1,0 +1,16 @@
+            vista, entrada y salida de documentos 
+ls: listar archivos de directorios y carpetas
+pwd: saber donde nos encontramos 
+cd 'nombre archivo o carpeta': ingresar a directorios
+cd ..: salir de directorios 
+
+            crear, iniciar git, estados
+mkdir nombreArchivo: crear una carpeta nueva
+git init: conecta la carpeta en la que estemos con el servidor remoto  
+git status: nos muestra el estado actual de nuestro repositorio en donde nos encontramos
+
+            seguir archivos, commit, 
+git add 'nombre archivo' o '.'agrega todos los archivos: son archivos los cuales git sabe que existen pero no los sigue; add esto permite que git los tenga presente
+git commit -m"mensaje":compromete aquellos cambios que se realizaron con git add
+
+mi primer programa
