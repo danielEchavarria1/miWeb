@@ -17,5 +17,18 @@ git commit -m"mensaje":compromete aquellos cambios que se realizaron con git add
 git rm 'archivo'=elimina archivos sin comprometerlos(commit)
 git restore 'archivo'=recupera los archivos eliminados que aun no estaban comprometidos(commit)
 
+            mostrar cambios realizados 
+git log    muestra los cambieo srealizados, mensaje,fecha,responsable, en cada commit 
+git log --online : solo muestra el commit y el mensaje
+cat: muestra el contenido dentro de nuestro archivo
+
             cambiar nombre archivo
 mv 'nomArchivo' 'nuevoNomArchivo' 
+            
+            cambiar de rama 
+git checkout -b 'nombreNewRama' = permite cambiar de rama para trabajar en nuestro propio codigo
+git checkout: permite volver a una rama sea main, rama personal o rama de compañero
+
+
+
+
