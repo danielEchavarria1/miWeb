@@ -8,3 +8,8 @@ esto es un mensaje de prueba agregando los cambios necesarios de rama para
 verificar funcionamiento del git merge
 >>>>>>> feature/DFE
 
+hola Estoy agregando este archivo al repositorio remoto con git push
+pasos 
+1- git add : se genera un seguimiento a los cambios realizados
+2- git commit: se confirman los cambios realizados
+3- git push:se envian los cambios al repositorio remoto
