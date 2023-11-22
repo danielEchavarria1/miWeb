@@ -1,4 +1,6 @@
 el chanchito feliz
 chanchito triste 
 felipe seras el mejor 
+esto es un mensaje de prueba agregando los cambios necesarios de rama para 
+verificar funcionamiento del git merge
 
